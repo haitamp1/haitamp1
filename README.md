@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# 🔴 HAITAM
+#Hellooo, this is HAITAM
 ### Cybersecurity Student | Python • Linux • SQL
 
 </div>
