@@ -14,7 +14,7 @@
 ---
 ##👨‍💻 About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cybersecurity coding animation" /
+<img align="right" width="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cybersecurity coding animation" />
 
 - 🔐 Cybersecurity student passionate about technology and digital security.
 - 🐍 I work with Python, C++, and SQL.
