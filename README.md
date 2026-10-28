@@ -14,9 +14,9 @@
 ### Cybersecurity Student | Python • Linux • SQL
 
 </div>
----
-##👨‍💻 About Me
 
+
+👨‍💻 About Me
 
 
 - 🔐 Cybersecurity student passionate about technology and digital security.
