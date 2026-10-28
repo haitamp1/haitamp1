@@ -31,7 +31,7 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark" alt="Python, C++, SQL" />
+<img src="https://skillicons.dev/icons?i=python,sql&theme=dark" alt="Python, SQL" />
 
 ### Operating Systems & Tools
 
