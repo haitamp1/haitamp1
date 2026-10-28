@@ -17,7 +17,7 @@
 <img align="right" width="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cybersecurity coding animation" />
 
 - 🔐 Cybersecurity student passionate about technology and digital security.
-- 🐍 I work with Python, C++, and SQL.
+- 🐍 I work with Python and SQL.
 - 🐧 Interested in Linux systems and command-line tools.
 - 🛡️ Exploring cybersecurity concepts and defensive security.
 - 🌱 Always learning, experimenting, and improving my skills.
