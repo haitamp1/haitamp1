@@ -2,7 +2,8 @@
 
 
 <div align="center">
-  <img src="./cybersecurity-banner.png" width="100%" alt="Haitam's cybersecurity banner" />
+  <img src="https://github.com/user-attachments/assets/b42e08ef-b0fa-49fc-a9e1-3dae18abfed2" />
+" width="100%" alt="Haitam's cybersecurity banner" />
 </div>
 
 <br />
