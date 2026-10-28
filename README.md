@@ -1,20 +1,22 @@
 
+
+
 <div align="center">
-
-# 🔴 HAITAM | CYBERSECURITY STUDENT
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+%7C+C%2B%2B+%7C+SQL;Linux+Enthusiast;Learning+to+Secure+the+Digital+World" alt="Animated cybersecurity introduction" />
-
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-FF3333?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/OS-LINUX-111111?style=for-the-badge&logo=linux&logoColor=FF3333" alt="Linux" />
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-FF3333?style=for-the-badge" alt="Always learning" />
-
+  <img src="./cybersecurity-banner.png" width="100%" alt="Haitam's cybersecurity banner" />
 </div>
 
+<br />
+
+<div align="center">
+
+# 🔴 HAITAM
+### Cybersecurity Student | Python • Linux • SQL
+
+</div>
 ---
 ##👨‍💻 About Me
 
-<img align="middle" width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cybersecurity coding animation" />
+
 
 - 🔐 Cybersecurity student passionate about technology and digital security.
 - 🐍 I work with Python and SQL.
