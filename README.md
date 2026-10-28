@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2500&pause=800&color=FF3333&center=true&vCenter=true&width=700&lines=Heyyy%2C+I'm+Haitam.exe;Cybersecurity+Student;Python+%7C+C%2B%2B+%7C+Linux+%7C+SQL;Learning+to+Secure+the+Digital+World" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2500&pause=800&color=FF3333&center=true&vCenter=true&width=700&lines=Heyyy%2C+I'm+Haitam;Cybersecurity+Student;Python+%7C+Linux+%7C+SQL;Learning+to+Secure+the+Digital+World" alt="Animated introduction" />
 
 <p>
   <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20STUDENT-FF3333?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity student" />
@@ -27,10 +27,9 @@
 ```text
 Name       : Haitam
 Role       : Cybersecurity Student
-Languages  : Python, C++, SQL
-Environment: Linux
+Languages  : Python, SQL
+Environment: Linux, Windows
 Interests  : Cybersecurity, Systems, Programming
-Mindset    : Learn. Build. Test. Secure.
 ```
 
 I'm a cybersecurity student passionate about understanding how technology works and how to make it more secure.
@@ -50,7 +49,7 @@ I'm a cybersecurity student passionate about understanding how technology works 
 
 ### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Python and C++" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
 
 ### 🐧 Systems & Developer Tools
 
@@ -69,8 +68,6 @@ I'm a cybersecurity student passionate about understanding how technology works 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haitamp1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitamp1&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3333&text_color=E6EDF3" alt="Top programming languages" />
 
 <br/><br/>
 
@@ -93,8 +90,6 @@ I'm a cybersecurity student passionate about understanding how technology works 
 🔴 **Projects are where the learning happens.**
 
 Check out my repositories for programming experiments, coursework, and projects as I develop my cybersecurity skills.
-
-> Add links to your best Python, Linux, or SQL projects here as you publish them.
 
 ---
 
@@ -119,7 +114,7 @@ Check out my repositories for programming experiments, coursework, and projects 
 </a>
 
 <!-- Replace this link with your real LinkedIn URL -->
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/haitam-belgouri-7135a1361/">
   <img src="https://img.shields.io/badge/LinkedIn-CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=FF3333" alt="LinkedIn" />
 </a>
 
