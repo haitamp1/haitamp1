@@ -31,11 +31,11 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark" alt="Python, C++, and SQL" />
+<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark" alt="Python, C++, SQL" />
 
 ### Operating Systems & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" alt="Linux, Bash, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" alt="Linux, Bash, Git, GitHub" />
 
 </div>
 
@@ -47,20 +47,20 @@
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api?username=haitamp1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF"
   alt="Haitam's GitHub statistics"
 />
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3333&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitamp1&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3333&text_color=FFFFFF"
   alt="Most used programming languages"
 />
 
 <br />
 
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+  src="https://streak-stats.demolab.com?user=haitamp1&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
   alt="GitHub contribution streak"
 />
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/haitamp1">
   <img src="https://img.shields.io/badge/GitHub-Follow-FF3333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
