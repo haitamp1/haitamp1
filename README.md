@@ -10,7 +10,7 @@
 
 <div align="center">
 
-#Hellooo, this is HAITAM
+# Hellooo, this is HAITAM
 ### Cybersecurity Student | Python • Linux • SQL
 
 </div>
