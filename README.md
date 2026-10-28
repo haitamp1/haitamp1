@@ -35,7 +35,7 @@ Interests  : Cybersecurity, Systems, Programming
 I'm a cybersecurity student passionate about understanding how technology works and how to make it more secure.
 
 - 🔐 Exploring cybersecurity and security fundamentals.
-- 🐍 Writing code with Python and C++.
+- 🐍 Writing code with Python.
 - 🐧 Working with Linux and command-line tools.
 - 🗄️ Practising SQL and database concepts.
 - 🧠 Improving my problem-solving and technical skills.
